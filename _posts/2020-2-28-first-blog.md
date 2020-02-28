@@ -5,7 +5,6 @@ category: 其它
 tags: [Markdown, Minimalism]
 excerpt: 本文是我的第一篇博客
 ---
-# 第一篇博客
 
 ## 关于本博客
 之前（2019年）用songrise.me域名也开过一个个人博客，当时是用wordpress建的站，效果还算可以，不过服务器的租金太贵了就没有(~~Qian~~)坚持下去。
