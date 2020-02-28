@@ -1,4 +1,4 @@
 ---
 layout: archive
-title: 时间线
+title: 归档
 ---
