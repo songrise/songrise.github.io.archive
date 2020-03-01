@@ -1,8 +1,8 @@
 ---
 title: "第一篇博文"
 date: 2020-02-28 22:01:23 +0800
-category: 其它
-tags: [Markdown, Minimalism]
+category: Others
+tags: [anocement]
 excerpt: 本文是我的第一篇博客
 ---
 ## 关于本博客 
